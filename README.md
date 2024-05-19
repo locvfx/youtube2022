@@ -1,2 +1,1 @@
-# youtube2022
-Season 2 on Lama Dev
+Tutorial : https://www.youtube.com/watch?v=CCF-xV3RSSs&t=165s
